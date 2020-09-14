@@ -16,6 +16,15 @@ Copy gdb-dashboard/.gdbinit to $HOME directory
 ### Python
 :CocInstall coc-python
 
+### Formatters
+Install whatever formatters you'd like: Black and Clang-format
+
+Use :Autoformat to format code
+
+Neovim doesn't come with python: install pynvim `pynvim`
+
+edit the path of python and the formatters in the formatter/format.vim file
+
 ## TMUX
 .tmux.conf goes in the $HOME Directory
 
