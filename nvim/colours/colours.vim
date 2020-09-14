@@ -5,5 +5,5 @@ if (has("termguicolors"))
 endif
 
 colorscheme gruvbox                     " Gruvbox colourscheme
-let g:airline_theme="minimalist"        " Use the 'minialist' vim-airline theme
+let g:airline_theme="gruvbox"        " Use the 'minialist' vim-airline theme
 

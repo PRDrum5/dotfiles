@@ -8,6 +8,14 @@ Plug 'Christoomey/vim-tmux-navigator'   " tmux intergration
 
 Plug 'neoclide/coc.nvim', {'branch': 'release'} " CoC
 
+Plug 'mechatroner/rainbow_csv' " Rainbow csv
+
+Plug 'machakann/vim-highlightedyank'
+
+Plug 'jiangmiao/auto-pairs'
+
+Plug 'chiel92/vim-autoformat'   " Formatter
+
 call plug#end()
 
 " Disable older node warning.
