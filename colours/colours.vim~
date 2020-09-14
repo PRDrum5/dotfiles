@@ -1,0 +1,8 @@
+" Collection of Colour Schemes I like
+
+if (has("termguicolors"))
+        set termguicolors
+endif
+
+colorscheme gruvbox
+
